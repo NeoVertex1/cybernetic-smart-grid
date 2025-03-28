@@ -50,3 +50,5 @@ This value remains constant throughout the simulation. No power is created or de
 
 ---
 
+![harmonics](images/harmonic_control_twitter_friendly.png)
+
