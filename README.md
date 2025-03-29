@@ -3,6 +3,8 @@ Simulated a cybernetic smart grid where imbalance is redistributedâ€”not erasedâ
 
 ![plot](images/smartgrid_combined_summary_larger_fonts.png)
 
+
+code can be found on the src folder.
 ---
 
 ### Harmonic Power Flow Controller
